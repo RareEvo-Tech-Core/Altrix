@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./client/public/virtualpangea/98.png" alt="Banner" width="100%" />
-</p>
+#  Altrix
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-v22-brightgreen" />
@@ -14,41 +12,76 @@
 
 ---
 
-# 🚀 OverView
+# Overview
 
-We are building the first decentralized AI operating system (deAIOS), an infinitely scalable infrastructure composed of an L1 modular blockchain, verifiable AI, generative agents, and a unified service marketplace.
-The goal is to create an all-in-one hub where users can play, earn, and learn without switching between multiple platforms.
+Altrix is an immersive decentralized metaverse and blockchain gaming ecosystem built with modern Web3 technologies.
 
----
+The platform combines multiplayer gameplay, NFT ownership, blockchain integration, AI systems, and real-time interactions to create a scalable next-generation gaming experience.
 
-# ✨ Features
+Altrix enables players to:
 
-- 🌌 Open World Metaverse
-- 🎮 Multiplayer Gameplay
-- 🔗 Solana Wallet Integration
-- 🪙 NFT Asset Ownership
-- 🛒 NFT Marketplace
-- ⚡ Real-Time Multiplayer Sync
-- 💬 Live Chat & Social Features
-- 🏆 Global Leaderboards
-- 📊 Player Statistics
-- 🤖 AI-Powered Systems
-- 🎨 Modern Responsive UI
-- ☁️ Cloud-Ready Infrastructure
-- 🐳 Docker Deployment Support
+-  Explore virtual worlds
+-  Play multiplayer games
+-  Own blockchain-based assets
+-  Trade NFTs
+-  Connect Solana wallets
+-  Interact in real-time environments
 
 ---
 
-## Tech Stack
->✅ **Frontend** – React / Next.js / TailwindCSS              
->✅ **Blockchain** – Solidity / Hardhat / Ethers.js           
->✅ **Backend** – Node.js / TypeScript / PostgreSQL / Redis   
->✅ **Games** – Phaser.js / Unity / WebGL                     
->✅ **Sports Data** – Integrated via 3rd-party APIs           
->✅ **Enterprise Layer** – SettleMint BCDB middleware       
+#  Features
 
+-  Open World Metaverse
+-  Multiplayer Gameplay
+-  Solana Wallet Integration
+-  NFT Asset Ownership
+-  NFT Marketplace
+-  Real-Time Multiplayer Sync
+-  Live Chat & Social Features
+-  Global Leaderboards
+-  Player Statistics
+-  AI-Powered Systems
+-  Modern Responsive UI
+-  Cloud-Ready Infrastructure
+-  Docker Deployment Support
 
-# 📁 Project Structure
+---
+
+#  Tech Stack
+
+## Frontend
+- React 19
+- Next.js 16
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+- Three.js
+- Babylon.js
+
+## Backend
+- Node.js
+- Express.js
+- Socket.IO
+- TypeScript
+
+## Blockchain
+- Polygon
+- Web3.js
+- Wallet Adapter
+
+## Database
+- MongoDB
+- Redis
+
+## DevOps
+- Docker
+- AWS
+- Vercel
+- GitHub Actions
+
+---
+
+#  Project Structure
 
 ```text
 ├───.vscode
@@ -107,7 +140,7 @@ The goal is to create an all-in-one hub where users can play, earn, and learn wi
 
 ---
 
-# 🛠️ Prerequisites
+#  Prerequisites
 
 Before starting, install the following:
 
@@ -120,18 +153,18 @@ Before starting, install the following:
 
 ---
 
-# 🚀 Quick Start
+#  Quick Start
 
-## 1️⃣ Clone Repository
+## Clone Repository
 
 ```bash
-git clone repository
-cd directory
+git clone https://github.com/RareEvo-TechHub/Altrix.git
+cd Altrix
 ```
 
 ---
 
-## 2️⃣ Install Dependencies
+## Install Dependencies
 
 ```bash
 npm install
@@ -144,7 +177,7 @@ yarn install
 ```
 
 
-# ▶️ Run Development Servers
+# Run Development Servers
 
 ## Start Backend
 
@@ -164,7 +197,7 @@ npm run dev
 
 ---
 
-# 🌐 Access Application
+# Access Application
 
 Frontend:
 
@@ -180,9 +213,9 @@ http://localhost:7777
 
 ---
 
-# 🔗 Wallet Integration
+# Wallet Integration
 
-supports:
+Altrix supports:
 
 - MetaMask Wallet
 - Coinbase Wallet
@@ -196,7 +229,7 @@ Players can securely:
 
 ---
 
-# 🏗️ System Architecture
+# System Architecture
 
 ```text
 +----------------------+
@@ -228,9 +261,9 @@ Players can securely:
 
 ---
 
-# 🔐 Security
+# Security
 
-This follows modern Web3 security practices:
+Altrix follows modern Web3 security practices:
 
 - Wallet-based authentication
 - Encrypted sessions
@@ -241,7 +274,7 @@ This follows modern Web3 security practices:
 
 ---
 
-# 🗺️ Roadmap
+# Roadmap
 
 - [x] Core Architecture
 - [x] Wallet Integration
@@ -256,7 +289,7 @@ This follows modern Web3 security practices:
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome.
 
@@ -285,19 +318,19 @@ git push origin feature/amazing-feature
 
 ---
 
-# 📄 License
+# License
 
 MIT License
 
 ---
 
-# 👨‍💻 Developer
+# Developer
 
-Built with passion by the Our Team.
+Built with passion by the Avolox Team.
 
 ---
 
-# 🙏 Acknowledgements
+# Acknowledgements
 
 - Polygon
 - React
@@ -310,7 +343,7 @@ Built with passion by the Our Team.
 
 ---
 
-# ⚖️ Disclaimer
+# Disclaimer
 
 This project is provided for educational and development purposes only.
 
@@ -319,5 +352,5 @@ Users are responsible for compliance with local blockchain and digital asset reg
 ---
 
 <p align="center">
-  🌌 Built for the Future of Web3 Project 🚀
+  Built for the Future of Web3 Gaming 🚀
 </p>
